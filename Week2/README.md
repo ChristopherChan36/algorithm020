@@ -30,9 +30,20 @@ HashMap是使用了哪些方法来有效解决哈希冲突的：
 ### 散列表
 
 - [有效的字母异位词](solution/ValidAnagram.java)
+- [字母异位词分组](solution/GroupAnagrams.java)
 - [两数之和](solution/TwoSum.java)
 
 ### 树
+
+#### 二叉树
+
+
+
+#### N 叉树
+
+- [N 叉树的前序遍历](solution/TreePreorderTraversal.java)
+
+#### 二叉堆
 
 
 
