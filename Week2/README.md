@@ -23,11 +23,16 @@ HashMap是使用了哪些方法来有效解决哈希冲突的：
 
 #### 有向有权图
 
-<img src="https://blog-figure-bed.oss-cn-shanghai.aliyuncs.com/2020/08/2020-11-29-124833.png" alt="有向有权图" style="zoom:25%;" />
+<img src="2020-11-29-124633.png" alt="有向有权图" style="zoom:25%;" />
 
 ## 作业
 
 ### 散列表
 
 - [有效的字母异位词](solution/ValidAnagram.java)
+- [两数之和](solution/TwoSum.java)
+
+### 树
+
+
 
